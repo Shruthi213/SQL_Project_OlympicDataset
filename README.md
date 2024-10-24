@@ -1,9 +1,9 @@
 # SQL_Project_OlympicDataset
 This is Postgre SQL Project.
 ## Here are the questions I have practiced pasted here:
-####### List of all these 20 queries mentioned below:
-####### 1.How many olympics games have been held?
-####### 2.List down all Olympics games held so far.
+###### List of all these 20 queries mentioned below:
+###### 1.How many olympics games have been held?
+###### 2.List down all Olympics games held so far.
 3.Mention the total no of nations who participated in each olympics game?
 4.Which year saw the highest and lowest no of countries participating in olympics?
 5.Which nation has participated in all of the olympic games?
