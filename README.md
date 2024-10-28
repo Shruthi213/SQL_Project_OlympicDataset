@@ -19,6 +19,6 @@ This is Postgre SQL Project.
 ###### 15.List down total gold, silver and broze medals won by each country corresponding to each olympic games.
 ###### 16.Identify which country won the most gold, most silver and most bronze medals in each olympic games.
 ###### 17.Identify which country won the most gold, most silver, most bronze medals and the most medals in each olympic games.
-18.Which countries have never won gold medal but have won silver/bronze medals?
-19.In which Sport/event, India has won highest medals.
-20.Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
+###### 18.Which countries have never won gold medal but have won silver/bronze medals?
+###### 19.In which Sport/event, India has won highest medals.
+###### 20.Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
