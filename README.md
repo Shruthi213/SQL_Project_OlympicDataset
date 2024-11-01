@@ -1,5 +1,5 @@
 # SQL_Project_OlympicDataset
-This is Postgre SQL Project.Thses are the questions you can try ,Above mentioned attached datasets.
+This is Postgre SQL Project.Thses are the questions you can try ,Above attached datasets.
 ## Here are the questions I have practiced pasted here:
 ###### List of all these 20 queries mentioned below:
 ###### 1.How many olympics games have been held?
